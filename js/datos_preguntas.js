@@ -58,11 +58,11 @@ let preguntas = [
    texto_pregunta:'¿Cúal de las siguientes corresponde a una conectividad de alcance local (casa, oficina, etc)? ',
    opciones:[
      'WLAN (Wireless Local Area Network)',
-     'LAN (Local Area Network)',
+     'MAN (Metropolitan Area Network)',
      'PAN (Personal Area Network)'
    ],
    imagen_src:'img/preguntas/LAN.JPG',
-   respuesta_correcta: 'LAN (Local Area Network)'
+   respuesta_correcta: 'WLAN (Wireless Local Area Network)'
  },
  {
  texto_pregunta:'¿Cuál de las siguientes compañías fue pionera en la fabricación de mainframes?',
