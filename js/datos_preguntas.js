@@ -55,7 +55,7 @@ let preguntas = [
      respuesta_correcta: 'De la conexion entre los perifericos y el hardware.'
    },
    {
-   texto_pregunta:'¿Cúal de las sifuientes corresponde a una conectividad de alcance local (casa, oficina, etc)? ',
+   texto_pregunta:'¿Cúal de las siguientes corresponde a una conectividad de alcance local (casa, oficina, etc)? ',
    opciones:[
      'WLAN (Wireless Local Area Network)',
      'LAN (Local Area Network)',
